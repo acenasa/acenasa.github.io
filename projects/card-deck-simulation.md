@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/cards.jpg
 title: "Card Deck Simulation"
 date: 2024
 published: true
@@ -11,12 +11,6 @@ labels:
   - Simulator
 summary: "A card deck simulation program I wrote in C for ICS 212 during my Spring 2024 semester."
 ---
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 In ICS 212 Program Structure, a class I took in Spring 2024, we were tasked with designing a card deck simulator that mimics the functionality of a real deck of cards. The program starts by creating a complete deck of 52 playing cards, each with a specific rank (like Ace or King), suit (like Hearts or Spades), and color (red or black). Once the deck is created, it can be shuffled randomly to simulate a real-life shuffle. The shuffled cards are displayed in groups of three for readability, and the user is given the option to shuffle again. This process helps ensure no two cards are identical and that the deck behaves exactly as expected in card-based games.
 
