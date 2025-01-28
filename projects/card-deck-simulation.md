@@ -17,3 +17,7 @@ In ICS 212 Program Structure, a class I took in Spring 2024, we were tasked with
 The course was online and asynchronous under Professor William "Bill" Wright at Leeward Community College, and I sometimes used ChatGPT to debug and improve the program without over-relying on AI tools.
 
 The program passed with flying colors. I incorporated modern programming techniques, such as using random number generators for shuffling and organizing card properties efficiently with structures and vectors. Throughout the project, I gained valuable experience in debugging and refining code for real-world applications, thanks to occasional guidance from Professor Wright’s course materials. Completing this project gave me a deeper appreciation for C/C++ programming and furthered my confidence in designing structured, functional programs independently.
+
+<hr>
+
+Source: (to be added)
