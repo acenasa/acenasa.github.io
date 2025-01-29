@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/grades.jpg
-title: "Ashwagandha Research Paper"
+title: "Student Record Management System"
 date: 2024
 published: true
 labels:
