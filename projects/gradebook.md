@@ -8,7 +8,7 @@ published: true
 labels:
   - C
   - Management System
-summary: "A student record management system that I coded in ICS 212."
+summary: "A student record management system that I coded in C for ICS 212."
 ---
 
 In ICS 212 Program Structure, a class I took in Spring 2024, we were tasked with creating a student record management system that could read, display, edit, and save student data in a binary file format. The program begins by opening an existing file, `students.data`, which contains records of students, each including fields such as student number, first and last names, age, and GPA. It reads and displays all records for the user in a tabular format, providing a clear view of the data. The program then allows the user to select a specific record by its number and edit fields such as first name, last name, age, or GPA. Once the edits are made, the updated record is written back to the file. This ensures that all changes are saved persistently, allowing the system to function as a simple database for managing student records.
