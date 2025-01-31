@@ -17,4 +17,4 @@ The program incorporates robust user input validation to ensure that record numb
 
 <hr>
 
-Source: (to be added)
+Source: <a href="https://github.com/acenasa/student_record_management_system/blob/main/student_record_management_system.c"><i class="large github icon "></i>acenasa/ics-212-student-record-management-system</a>
