@@ -18,4 +18,4 @@ Jason and my peers received the essay well, commending its clear organization an
 
 <hr>
 
-Source: (to be added)
+Source: <a href="https://github.com/acenasa/ashwagandha_research_paper/blob/main/Acenas%20-%20Ashwagandha.pdf"><i class="large github icon "></i>acenasa/eng-100-ashwagandha-research-paper</a>
