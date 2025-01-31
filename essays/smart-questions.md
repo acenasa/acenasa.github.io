@@ -13,7 +13,7 @@ labels:
 
 In software engineering, the art of posing questions effectively is paramount. Eric Raymond's essay, "How To Ask Questions The Smart Way," highlights the significance of well-crafted questions in eliciting valuable answers. A comparative analysis of questions on platforms like Stack Overflow reveals the tangible benefits of adhering to these principles.
 
-<img class="img-fluid" src="../img/stack1.png">
+<img class="img-fluid" src="../img/stack1.png" style="height: 500px; width: auto;">
 
 ## Example of the "Smart Way"
 
