@@ -20,4 +20,4 @@ The program passed with flying colors. I incorporated modern programming techniq
 
 <hr>
 
-Source: (to be added)
+Source: <a href="https://github.com/acenasa/card_deck_simulation/blob/main/card_deck_simulation.c.c"><i class="large github icon "></i>acenasa/ics-212-card-deck-simulation</a>
