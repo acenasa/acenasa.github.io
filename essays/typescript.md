@@ -11,6 +11,8 @@ labels:
   - ICS
 ---
 
+<img class="img-fluid" src="../img/cat-coding.jpg">
+
 TypeScript? I've heard of JavaScript.
 
 ## Is it like JavaScript's younger brother?
@@ -30,3 +32,5 @@ Ah yes, the WODs. The workout of the day. Except instead of walking on a treadmi
 Honestly, I wouldn't say this is my ideal way of learning, but I'd take it over traditional note-taking and exams any day. The constant practice keeps me from slacking off, and I actually feel like I'm learning something instead of just memorizing terms for a test. That said, I wouldn't mind a slight reduction in the WOD intensity- maybe a "rest day" here and there? Just a thought.
 
 All in all, TypeScript seems promising, the WODs keep me on my toes, and my stress levels are... manageable (for now). If nothing else, this experience will at least make me a faster typist. Silver linings, right?
+
+* ChatGPT used for grammar.
