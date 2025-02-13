@@ -10,7 +10,7 @@ labels:
   - VSCode
 ---
 
-<img class="img-fluid" src="../img/pretter-eslint.jpg" style="display: block; margin: auto; height: 500px; width: auto;">
+<img class="img-fluid" src="../img/pretter-eslint.jpg" style="display: block; margin: auto; height: 200px; width: auto;">
 
 ## Coding Standards Be Like
 
