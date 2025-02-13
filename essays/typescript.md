@@ -11,7 +11,7 @@ labels:
   - ICS
 ---
 
-<img class="img-fluid" src="../img/cat-coding.jpg">
+<img class="img-fluid" src="../img/cat-coding.jpg" style="display: block; margin: auto; height: auto; width: auto;">
 
 TypeScript? I've heard of JavaScript.
 
