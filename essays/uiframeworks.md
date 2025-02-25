@@ -28,11 +28,14 @@ Early on, I built a simple website detailing the history of Internet browsers. A
 Bootstrap 5 is marketed as "responsive, mobile-first, and easy to use." And to be fair, it kind of is. Instead of manually writing CSS for every screen size, Bootstrap hands you a grid system on a silver platter. Instead of battling float: left;, you can just slap d-flex justify-content-center on an element and move on with your life.
 
 Take this simple Bootstrap 5 button, for example:
-`<button class="btn btn-primary">Click me</button>`
+```html
+<button class="btn btn-primary">Click me</button>
+```
 That's it. No border-radius, no box-shadow, no debating which shade of blue looks the least offensive. It just works.
 
 Compare that to writing pure CSS:
-`button {
+```css
+button {
     background-color: #007bff;
     color: white;
     padding: 10px 20px;
@@ -42,7 +45,9 @@ Compare that to writing pure CSS:
 }
 button:hover {
     background-color: #0056b3;
-}`
+}
+```
+
 Who has time for that? Not me.
 
 ## The Bootstrapification of Everything
