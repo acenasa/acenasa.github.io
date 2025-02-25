@@ -11,7 +11,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img class="img-fluid" src="../img/html.jpg" style="display: block; margin: auto; height: auto; width: auto;">
+<img class="img-fluid" src="../img/beabadoobee.jpg" style="display: block; margin: auto; height: auto; width: auto;">
 
 ## UI Frameworks: A Curse, A Blessing, & Everything In Between
 
