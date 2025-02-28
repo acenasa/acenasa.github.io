@@ -30,7 +30,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Mānoa, Honolulu, HI",
       "area": "Security Science (expected Spring, 2027)",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
@@ -41,9 +41,9 @@
   ],
   "work": [
     {
-      "company": "Pacific Air Forces - A1 Manpower, Personnel and Services",
+      "company": "Pacific Air Forces HQ - A1 Manpower, Personnel and Services",
       "position": "Student Trainee (Clerk)",
-      "website": "",
+      "website": "https://www.pacaf.af.mil/",
       "startDate": "2023-06-05",
       "endDate": "2024-08-23",
       "summary": "Work under A1M (Manpower) to help manage organizational structures",
@@ -51,19 +51,30 @@
         "Scan and digitize historical USAF documents into PDF form",
         "Archive digital documents into an Excel spreadsheet record log"
       ]
+    },
+    {
+      "company": "University of Hawaii at Mānoa - Information Technology Services",
+      "position": "Network Operation Technician Trainee",
+      "website": "https://www.hawaii.edu/its/",
+      "startDate": "2025-02-26",
+      "endDate": "Present",
+      "summary": "Assist in troubleshooting and diagnosing network connectivity issues using cable testing and network diagnostic tools",
+      "highlights": [
+        "Install and maintain network equipment and cabling, ensuring proper installation documentation",
+        "Conduct on-site visits to resolve user-reported network problems utilizing specialized testing tools"
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Mililani High School FIRST Robotics",
+      "website": "",
+      "position": "Programming Team Member",
+      "startDate": "2019-08-29",
+      "endDate": "2020-12-11",
+      "summary": "Code in Java/C++ to design robot behavior/controls",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     }
   ],
