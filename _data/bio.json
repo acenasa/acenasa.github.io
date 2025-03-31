@@ -41,18 +41,6 @@
   ],
   "work": [
     {
-      "company": "Pacific Air Forces HQ - A1 Manpower, Personnel and Services",
-      "position": "Student Trainee (Clerk)",
-      "website": "https://www.pacaf.af.mil/",
-      "startDate": "2023-06-05",
-      "endDate": "2024-08-23",
-      "summary": "Work under A1M (Manpower) to help manage organizational structures",
-      "highlights": [
-        "Scan and digitize historical USAF documents into PDF form",
-        "Archive digital documents into an Excel spreadsheet record log"
-      ]
-    },
-    {
       "company": "University of Hawaii at Mānoa - Information Technology Services",
       "position": "Network Operation Technician Trainee",
       "website": "https://www.hawaii.edu/its/",
@@ -62,6 +50,18 @@
       "highlights": [
         "Install and maintain network equipment and cabling, ensuring proper installation documentation",
         "Conduct on-site visits to resolve user-reported network problems utilizing specialized testing tools"
+      ]
+    },
+    {
+      "company": "Pacific Air Forces HQ - A1 Manpower, Personnel and Services",
+      "position": "Student Trainee (Clerk)",
+      "website": "https://www.pacaf.af.mil/",
+      "startDate": "2023-06-05",
+      "endDate": "2024-08-23",
+      "summary": "Work under A1M (Manpower) to help manage organizational structures",
+      "highlights": [
+        "Scan and digitize historical USAF documents into PDF form",
+        "Archive digital documents into an Excel spreadsheet record log"
       ]
     }
   ],
