@@ -4,7 +4,7 @@ type: essay
 title: "Keeping It 100 With My Use Of AI In ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-09
-published: false
+published: true
 labels:
   - AI
 ---
@@ -34,26 +34,26 @@ This past Spring semester in ICS 314, I had the idea of letting AI take the back
 
 ## III. Impact on Learning and Understanding
 
-
+When it came to my personal learning experience, AI had really enhanced my understanding more than I thought it would. The technology has become so advanced that it's a better teacher than most people, and I had a better time understanding all the different UI frameworks and other key concepts taught in software engineering.
 
 ## IV. Practical Applications
 
-X
+AI is definitely a good tool for when you need to draft ideas or get started on an project. Whenever your stuck with something like writing a lab report, which I did in Fall 2024 for physics, a program like ChatGPT is useful when you are having difficulties learning the concepts of a lab.
 
 ## V. Challenges and Opportunities
 
-X
+Even at this stage, artificial intelligence is not perfect. It is bound to make mistakes, which can lead to it correcting them, then end up making more mistakes. This happened a lot when I used it for writing code, where errors would pop up and I'd task ChatGPT with resolving it. ChatGPT would try its best to resolve the error but would just make these more incorrect, so there is definitely a lot of room for improvement when it comes to the advancement of AI, especially on the software engineering side of things.
 
 ## VI. Comparative Analysis
 
-X
+Traditional learning methods, such as note-taking, textbook reading, and reaching out for help will stand the test of time. AI has pretty much taken over the world at this point, but when it comes to methods of learning, the best way to learn something is by doing. The way I see it and the way I have been doing it, is its always best to do the note-taking and reviewing the resources yourself, then only ever using ChatGPT for help with homework, asking it about how to approach a problem and the steps necessary rather than just giving you the answer. You retain knowledge a lot better when you do things yourself, which I came to learn when I overrelied on AI in classes like ICS 211 and Calculus 2.
 
 ## VII. Future Considerations
 
-X
+When it comes to the future role of AI in software engineering education, think AI is going to keep playing a bigger role in software engineering education. Tools like ChatGPT and GitHub Co-Pilot will probably become even more common in classes. I can see future assignments actually requiring AI use or teaching us how to work with AI the right way. But I also think it's really important that we don't forget the basics. Learning how to solve problems on your own is still super valuable, and AI shouldn't replace that. It should just be there to help when you're stuck, not do everything for you.
 
 ## VIII. Conclusion
 
-X
+Overall, using AI in ICS 314 helped me a lot. It saved time, gave me good ideas, and helped me understand things better when I was stuck. But it also reminded me that relying on it too much can hurt your learning. I learned it's best to use AI as a tool, not as a crutch. When you do most of the work yourself and just use AI to guide you, you end up learning way more. I think AI is great for school, as long as you use it the right way.
 
 * ChatGPT used for grammar.
