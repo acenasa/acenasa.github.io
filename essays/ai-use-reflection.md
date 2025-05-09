@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Keeping It 100 With My Use Of AI In ICS 314"
+title: "Keeping it 100 With My Use Of AI In ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-09
 published: true
